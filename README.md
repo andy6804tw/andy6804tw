@@ -1,4 +1,4 @@
-![](https://i.imgur.com/vmRq6TO.gif)
+<img width="650px" src="https://i.imgur.com/vmRq6TO.gif" />
 
 👋 Currently working on [台灣人工智慧學校(AIA)](https://aiacademy.tw/). Read [my blog]() or follow my [YouTube channel]().
 
