@@ -13,6 +13,8 @@
   <img align="left" alt="linkedin" width="25px" src="https://cdn3.iconfinder.com/data/icons/social-network-icon/112/linkedin-512.png" />
 </a>
 
+<br>
+
 👋 Currently working on [台灣人工智慧學校(AIA)](https://aiacademy.tw/). Read [my blog](https://andy6804tw.github.io/) or follow my [YouTube channel](https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A).
 
 - 🔭 I’m currently working on my project [faceswapper](https://github.com/andy6804tw/faceswapper)
