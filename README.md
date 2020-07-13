@@ -1,6 +1,6 @@
 <img width="650px" src="https://i.imgur.com/vmRq6TO.gif" />
 
-👋 Currently working on [台灣人工智慧學校(AIA)](https://aiacademy.tw/). Read [my blog]() or follow my [YouTube channel]().
+👋 Currently working on [台灣人工智慧學校(AIA)](https://aiacademy.tw/). Read [my blog](https://andy6804tw.github.io/) or follow my [YouTube channel](https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A).
 
 <a href="https://andy6804tw.github.io/">
   <img align="left" alt="blog" width="21px" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/65-blogger-512.png" />
