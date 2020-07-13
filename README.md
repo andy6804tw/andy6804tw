@@ -10,7 +10,7 @@
   <img align="left" alt="Anurag's Discord" width="21px" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/53-medium-2-256.png" />
 </a>
 
-<br>
+<br><br>
 
 - 🔭 I’m currently working on my project [faceswapper](https://github.com/andy6804tw/faceswapper)
 - 👯 I’m looking to collaborate on any projects.
