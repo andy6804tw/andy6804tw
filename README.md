@@ -3,7 +3,9 @@
 
 
 
-👋 Currently working on [台灣人工智慧學校(AIA)](https://aiacademy.tw/). Read [my blog](https://andy6804tw.github.io/) or follow my [YouTube channel](https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A).
+👋  I'm a Full Stack Engineer and Research Scientist from Taiwan. Currently a graduate CS student and working as AI Assistant Engineer [@Taiwan AI Academy](https://aiacademy.tw/). My research interests are in artificial intelligence、intelligent agent、fuzzy inference system、brain-computer interface、computer vision and deep learning.
+
+Read [my blog](https://andy6804tw.github.io/) or follow my [YouTube channel](https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A).
 
 - 🔭 I’m currently working on my project [faceswapper](https://github.com/andy6804tw/faceswapper)
 - 👯 I’m looking to collaborate on any projects.
