@@ -7,9 +7,9 @@
 
 To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog](https://andy6804tw.github.io/) or follow my [YouTube channel](https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A).
 
-- 🔭 I’m currently working on my project [faceswapper](https://github.com/andy6804tw/faceswapper)
+- 🔭 I’m currently working on my project [faceswapper](https://github.com/andy6804tw/faceswapper).
 - 👯 I’m looking to collaborate on any projects.
-- 💬 Ask me about anything [here](https://github.com/andy6804tw/andy6804tw/issues) or [E-mail](mailto:andy6804tw@yahoo.com.tw)
+- 💬 Ask me about anything [here](https://github.com/andy6804tw/andy6804tw/issues) or [E-mail](mailto:andy6804tw@yahoo.com.tw).
 
 
 
