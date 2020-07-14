@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on any projects.
 - 💬 Ask me about anything [here](https://github.com/andy6804tw/andy6804tw/issues) or [E-mail](mailto:andy6804tw@yahoo.com.tw)
 
-![](https://visitor-badge.glitch.me/badge?page_id=andy6804tw/andy6804tw)
+
 
 <a href="https://andy6804tw.github.io/">
   <img align="left" alt="blog" width="25px" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/65-blogger-512.png" />
@@ -23,6 +23,6 @@
 <a href="https://www.linkedin.com/in/yi-lin-tsai-105960134/">
   <img align="left" alt="linkedin" width="25px" src="https://cdn3.iconfinder.com/data/icons/social-network-icon/112/linkedin-512.png" />
 </a>
-<br>
+<br><br>
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=andy6804tw/andy6804tw)
