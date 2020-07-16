@@ -27,4 +27,6 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
 </a>
 <br><br>
 
+![Yi-Lin's github stats](https://github-readme-stats.vercel.app/api?username=andy6804tw&show_icons=true&hide_border=true)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=andy6804tw/andy6804tw)
