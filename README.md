@@ -1,8 +1,5 @@
 <img width="650px" src="https://i.imgur.com/vmRq6TO.gif" />
 
-
-
-
 👋  I'm a Full Stack Engineer and Research Scientist from Taiwan. Currently a graduate CS student and working as AI Assistant Engineer [@Taiwan AI Academy](https://aiacademy.tw/). My research interests are in artificial intelligence、intelligent agent、fuzzy inference system、brain-computer interface、computer vision and deep learning.
 
 To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog](https://andy6804tw.github.io/) or follow my [YouTube channel](https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A).
