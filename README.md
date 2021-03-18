@@ -10,7 +10,9 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
 - 💬 Ask me about anything [here](https://github.com/andy6804tw/andy6804tw/issues) or [E-mail](mailto:andy6804tw@yahoo.com.tw).
 
 
-
+<a href="https://andy6804tw.github.io/personal">
+  <img align="left" alt="blog" width="25px" src="https://i.imgur.com/xCEyRAU.png" />
+</a>
 <a href="https://andy6804tw.github.io/">
   <img align="left" alt="blog" width="25px" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/65-blogger-512.png" />
 </a>
