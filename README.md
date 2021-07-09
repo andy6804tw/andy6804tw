@@ -28,6 +28,9 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
 <a href="https://www.cakeresume.com/users/andy6804tw/portfolio">
   <img align="left" alt="linkedin" width="25px" src="https://i.imgur.com/2Pq2k0p.png" />
 </a>
+<a href="https://www.kaggle.com/andy6804tw/Home?isEditing=False">
+    <img align="left" alt="kaggle" width="25px" src="https://i.imgur.com/nxlJ3YR.png" />
+</a>
 <br><br>
 
 ![Yi-Lin's github stats](https://github-readme-stats.vercel.app/api?username=andy6804tw&show_icons=true&hide_border=true)
