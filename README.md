@@ -28,8 +28,11 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
 <a href="https://www.cakeresume.com/users/andy6804tw/portfolio">
   <img align="left" alt="linkedin" width="25px" src="https://i.imgur.com/2Pq2k0p.png" />
 </a>
-<a href="https://www.kaggle.com/andy6804tw/Home?isEditing=False">
+<a href="https://www.kaggle.com/andy6804tw">
     <img align="left" alt="kaggle" width="25px" src="https://i.imgur.com/nxlJ3YR.png" />
+</a>
+<a href="https://leetcode.com/andy6804tw/">
+    <img align="left" alt="Leetcode" width="25px" src="https://i.imgur.com/KmtlxhX.png" />
 </a>
 <br><br>
 
