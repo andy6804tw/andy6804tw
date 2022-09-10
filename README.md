@@ -1,4 +1,4 @@
-<img width="650px" src="https://i.imgur.com/vmRq6TO.gif" />
+<a href="https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A" target="_blank"><img width="650px" src="https://i.imgur.com/vmRq6TO.gif" /></a>
 
 👋  I'm a Full Stack Engineer and Research Scientist from Taiwan. Currently working as AI Engineer [@Taiwan AI Academy](https://aiacademy.tw/). My research interests are in artificial intelligence、intelligent agent、fuzzy inference system、brain-computer interface、computer vision and deep learning.
 
