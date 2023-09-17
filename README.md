@@ -5,7 +5,7 @@
 To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog](https://andy6804tw.github.io/) or follow my [YouTube channel](https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A).
 
 - 🔭 I’m currently working on my project [Voice Activity Detection](https://github.com/andy6804tw/VAD-API) and [py-scanner](https://github.com/andy6804tw/py-scanner).
-- 🗓 I’m currently challenging the ithelp 13th-ironman about AI. You can check [here](https://github.com/andy6804tw/2021-13th-ironman)! 
+- 🗓 I’m currently challenging the ithelp 15th-ironman about Explainable AI(XAI). You can check [here](https://ithelp.ithome.com.tw/users/20107247/ironman/6272)! 
 - 👯 I’m looking to collaborate on any projects.
 - 💬 Ask me about anything [here](https://github.com/andy6804tw/andy6804tw/issues) or [E-mail](mailto:andy6804tw@yahoo.com.tw).
 
