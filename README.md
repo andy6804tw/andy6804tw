@@ -34,6 +34,24 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
 </a>
 <br><br>
 
+### 新書預購中！
+
+<table>
+    <tr>
+        <td>
+            <img src="https://deepwisdom.com.tw/wp-content/uploads/2025/02/DM2510-%E7%AB%8B%E9%AB%94%E6%9B%B8-500x500-1.jpg" width="250px">
+        </td>
+        <td>
+            <p>📢 <strong>2/19 前預購 7.9 折優惠！</strong> 🎉</p>
+            <p>本書改寫自 <strong>「第12屆iT邦幫忙鐵人賽 全民瘋AI系列」</strong>，在原有的內容基礎上，增添 <strong>十三種經典實務範例</strong>，並強化 <strong>模型部署實作</strong>，讓讀者能更全面掌握 AI 技術的實際應用。</p>
+            <p>從基礎機器學習演算法入門，本書循序漸進解析 AI 技術，涵蓋 <strong>資料處理、模型構建、優化與部署</strong>，並提供豐富的 <strong>Python 範例</strong> 與 <strong>實務應用</strong>，讓讀者不僅理解理論，更能將 AI 技術應用於實際場景。</p>
+            <p>如果你喜歡我的創作 ❤️，歡迎購買書籍作為支持！🙏 你的支持將成為我持續開源與分享更多 AI 相關內容的動力！</p>
+        </td>
+    </tr>
+</table>
+
+
+
 ### 近期演講資訊
 | 日期        | 地點            | 主題                            | 報名連結    |
 |-------------|-----------------|---------------------------------|-------------|
