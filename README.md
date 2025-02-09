@@ -39,7 +39,7 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
 <table>
     <tr>
         <td>
-            <a href="https://deepwisdom.com.tw/product/%e5%85%a8%e6%b0%91%e7%98%8f-ai-%e7%b3%bb%e5%88%97-%e7%b6%93%e5%85%b8%e6%a9%9f%e5%99%a8%e5%ad%b8%e7%bf%92dm2510/" target="_blank">
+            <a href="https://deepwisdom.com.tw/product/%e5%85%a8%e6%b0%91%e7%98%8b-ai-%e7%b3%bb%e5%88%97-%e7%b6%93%e5%85%b8%e6%a9%9f%e5%99%a8%e5%ad%b8%e7%bf%92dm2510/" target="_blank">
                 <img src="https://deepwisdom.com.tw/wp-content/uploads/2025/02/DM2510-%E7%AB%8B%E9%AB%94%E6%9B%B8-500x500-1.jpg" width="250px" alt="全民瘋AI系列 經典機器學習">
             </a>
         </td>
