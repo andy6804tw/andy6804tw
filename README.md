@@ -49,6 +49,7 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
             <p>從基礎機器學習演算法入門，本書循序漸進解析 AI 技術，涵蓋 <strong>資料處理、模型構建、優化與部署</strong>，並提供豐富的 <strong>Python 範例</strong> 與 <strong>實務應用</strong>，讓讀者不僅理解理論，更能將 AI 技術應用於實際場景。</p>
             <p>如果你喜歡我的創作 ❤️，歡迎 <a href="https://www.tenlong.com.tw/products/9786267569511" target="_blank"><strong>購買書籍</strong></a> 作為支持！🙏</p>
             <p><a href="https://youtu.be/fbx0SyRebfM"><strong>新書主題曲🎶</strong></a></p>
+            <p>如果學生有購書需求可以直接聯絡<a href="https://deepwisdom.com.tw/product/%e5%85%a8%e6%b0%91%e7%98%8b-ai-%e7%b3%bb%e5%88%97-%e7%b6%93%e5%85%b8%e6%a9%9f%e5%99%a8%e5%ad%b8%e7%bf%92dm2510/" target="_blank">深智數位出版社</a>，學生團購價5本以上皆享有75折的優惠～</p>
         </td>
     </tr>
 </table>
