@@ -84,7 +84,7 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
 
 ![Yi-Lin's github stats](https://github-readme-stats.vercel.app/api?username=andy6804tw&show_icons=true&hide_border=true)
 
-![](https://komarev.com/ghpvc/?username=andy6804tw)
+![](https://hit.yhype.me/github/profile?account_id=20473922)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=andy6804tw/andy6804tw)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandy6804tw&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
