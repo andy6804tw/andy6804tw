@@ -94,10 +94,10 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
 
 
 
-
+[![Hits](https://hits.sh/andy6804tw.github.io.svg?view=today-total&style=flat-square)](https://hits.sh/andy6804tw.github.io/)
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=andy6804tw&style=for-the-badge">
+    <img srcs="https://komarev.com/ghpvc/?username=andy6804tw&style=for-the-badge">
 </a>
 
 ![](https://hit.yhype.me/github/profile?account_id=1849174)
