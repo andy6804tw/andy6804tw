@@ -44,7 +44,7 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
             </a>
         </td>
         <td>
-            <p>📢 <strong>新書推播 7.9 折優惠！</strong> 🎉</p>
+            <p>📢 <strong>4/20 [博客來](https://www.books.com.tw/products/0011013791)有限定66折哦！！！歡迎支持～</strong> 🎉</p>
             <p>本書改寫自 <strong>「第12屆iT邦幫忙鐵人賽 全民瘋AI系列」</strong>，在原有的內容基礎上，增添 <strong>十三種經典實務範例</strong>，並強化 <strong>模型部署實作</strong>，讓讀者能更全面掌握 AI 技術的實際應用。</p>
             <p>從基礎機器學習演算法入門，本書循序漸進解析 AI 技術，涵蓋 <strong>資料處理、模型構建、優化與部署</strong>，並提供豐富的 <strong>Python 範例</strong> 與 <strong>實務應用</strong>，讓讀者不僅理解理論，更能將 AI 技術應用於實際場景。</p>
             <p>如果你喜歡我的創作 ❤️，歡迎 <a href="https://www.tenlong.com.tw/products/9786267569511" target="_blank"><strong>購買書籍</strong></a> 作為支持！🙏</p>
@@ -60,7 +60,7 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
 ### 近期演講資訊
 | 日期        | 地點            | 主題                            | 報名連結    |
 |-------------|-----------------|---------------------------------|-------------|
-|2025-04-19 19:00-21:00|線上直播(付費講座)|《全民瘋AI系列：經典機器學習》新書導讀講座|[報名](https://forms.gle/k8bww4dBcWE8Bzue9) 會有抽書環節哦～以及會分享LLM實作(小彩蛋)|
+|2025-04-26 19:00-21:00|線上直播(付費講座)|《全民瘋AI系列：經典機器學習》新書導讀講座|[報名](https://forms.gle/k8bww4dBcWE8Bzue9) (原本19號延期一週) 會有抽書環節哦～以及會分享LLM實作(小彩蛋)|
 |2025-03-08|線上直播|《ML 雷區拆解攻略》 機器學習專案踩過的坑| [觀看回放](https://www.youtube.com/live/ANj-Yt-wUBU?si=7P_SOInrFA1agFp4&t=693)|
 | 2024-12-11  | iThome線上首播 | 全民必懂的AI通識課 | [觀看回放](https://itplus.ithome.com.tw/webinar-page/242) |
 | 2024-12-18  | iThome線上首播 | 揭開黑箱模型：探索可解釋人工智慧  | [觀看回放](https://itplus.ithome.com.tw/webinar-page/243) |
