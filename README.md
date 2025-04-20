@@ -11,7 +11,7 @@
 另外想了解更多的內容可以參加今天的免費演講，我跟洪老師會在線上幫大家解答哦！
 📅 日期：4/20 (日)
 ⏰ 時間：19:30 - 21:30
-連結： https://teams.live.com/meet/9330171224773?p=dGt0KirLcwGsBfZDpJ
+連結： https://teams.live.com/meet/9364416500219?p=13ehlneV5CCxHWfeHu
 
 <img src="https://github.com/user-attachments/assets/ffe8bdfa-079a-4c2f-aeeb-d0a11798c6c2" width="650px">
 
