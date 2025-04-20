@@ -13,7 +13,7 @@
 ⏰ 時間：19:30 - 21:30
 連結： https://teams.live.com/meet/9330171224773?p=dGt0KirLcwGsBfZDpJ
 
-![Picture1](https://github.com/user-attachments/assets/ffe8bdfa-079a-4c2f-aeeb-d0a11798c6c2)
+<img src="https://github.com/user-attachments/assets/ffe8bdfa-079a-4c2f-aeeb-d0a11798c6c2" width="650px">
 
 
 
