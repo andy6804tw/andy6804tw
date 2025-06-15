@@ -40,6 +40,14 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
 <br><br>
 
 ### 新書預購中！
+![346366](https://github.com/user-attachments/assets/4fce19cb-8252-4010-87ca-62a39e1635db)
+
+🎉 今天(5/15)在博客來有一日限定的66折活動！ 📚
+這次活動的主題書是《AI行銷引爆術：用AI讓品牌業績翻倍成長》限時 66 折！
+而我的書《全民瘋 AI 系列 - 經典機器學習》也有搭配優惠，只要與主題書一起購買，也可以享有 66 折優惠！
+
+可以到博客來逛逛活動頁面尋找深智數位的書，把握這波限時優惠！
+購書連結：https://bookstw.link/7qb6c4
 
 <table>
     <tr>
