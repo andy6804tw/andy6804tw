@@ -5,7 +5,7 @@
 可以到博客來逛逛活動頁面尋找深智數位的書，把握這波限時優惠！
 購書連結：https://bookstw.link/89rtgy
 
-
+<img width="453" height="255" alt="Screenshot 2025-10-25 at 10 46 41 PM" src="https://github.com/user-attachments/assets/49a7b8b1-5288-406e-b608-bad69d6441ea" />
 
 
 <a href="https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A" target="_blank"><img width="650px" src="https://i.imgur.com/vmRq6TO.gif" /></a>
