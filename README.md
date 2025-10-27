@@ -1,11 +1,4 @@
-🎉 10/26(日)在博客來有一日限定的66折活動！ 📚
-這次活動的主題書是《寫程式的AI戰友 – VS Code x GitHub Copilot》限時 66 折！
-而我的書《全民瘋 AI 系列 - 經典機器學習》也有搭配優惠，只要與主題書一起購買，也可以享有 66 折優惠！
 
-可以到博客來逛逛活動頁面尋找深智數位的書，把握這波限時優惠！
-購書連結：https://bookstw.link/89rtgy
-
-<img width="453" height="255" alt="Screenshot 2025-10-25 at 10 46 41 PM" src="https://github.com/user-attachments/assets/49a7b8b1-5288-406e-b608-bad69d6441ea" />
 
 
 <a href="https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A" target="_blank"><img width="650px" src="https://i.imgur.com/vmRq6TO.gif" /></a>
