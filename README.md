@@ -1,5 +1,4 @@
 
-📢 11月[PChome](https://24h.pchome.com.tw/books/prod/DJAA2V-A900ID5EI)購書79折！
 
 <a href="https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A" target="_blank"><img width="650px" src="https://i.imgur.com/vmRq6TO.gif" /></a>
 
