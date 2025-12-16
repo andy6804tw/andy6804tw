@@ -54,9 +54,6 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
     </tr>
 </table>
 
-![](https://scontent.fkhh5-1.fna.fbcdn.net/v/t39.30808-6/597308152_25207448802215193_9111755044863560899_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=lDBhwgz6ndcQ7kNvwHLQkn5&_nc_oc=AdnNURfbjeBy0DtPenyHnoPF_fSlv3ixzfPsfOB90GgrViTiK3zCN51kczGaZ15SME0&_nc_zt=23&_nc_ht=scontent.fkhh5-1.fna&_nc_gid=R-acTdSSl_FyqYSqT0vFnw&oh=00_Aflu2lzWMQWyomv5z1zUUOJcVHpnuqn6VbJkZwX2JhdXaw&oe=69409205)
-
-
 ### 近期演講資訊
 | 日期        | 地點            | 主題                            | 報名連結    |
 |-------------|-----------------|---------------------------------|-------------|
