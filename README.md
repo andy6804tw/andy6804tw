@@ -57,7 +57,7 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
 ### 近期演講資訊
 | 日期        | 地點            | 主題                            | 報名連結    |
 |-------------|-----------------|---------------------------------|-------------|
-|2025-12-14|線上直播|《新手如何快速打造客服機器人》 預計會是在19:55~20:15| 我會在洪老師的講座中間串場20分鐘的短講哦！ [直播連結](https://reurl.cc/QVEOZZ)|
+|2025-12-14|線上直播|《新手如何快速打造客服機器人》 預計會是在19:55~20:15| 我會在洪老師的講座中間串場20分鐘的短講哦！ |
 |2025-03-08|線上直播|《ML 雷區拆解攻略》 機器學習專案踩過的坑| [觀看回放](https://www.youtube.com/live/ANj-Yt-wUBU?si=7P_SOInrFA1agFp4&t=693)|
 | 2024-12-11  | iThome線上首播 | 全民必懂的AI通識課 | [觀看回放](https://itplus.ithome.com.tw/webinar-page/242) |
 | 2024-12-18  | iThome線上首播 | 揭開黑箱模型：探索可解釋人工智慧  | [觀看回放](https://itplus.ithome.com.tw/webinar-page/243) |
