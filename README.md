@@ -1,12 +1,3 @@
-🎉 今天(2/14)在博客來有一日限定的66折活動！ 📚 <br>
-這次活動的主題書是《Gemini 3 x NotebookLM領軍》限時 66 折！<br>
-而我的書《全民瘋 AI 系列 - 經典機器學習》也有搭配優惠，只要與主題書一起購買，也可以享有 66 折優惠！<br>
-
-可以到博客來逛逛活動頁面尋找深智數位的書，把握這波限時優惠！<br>
-主題書連結：https://www.books.com.tw/products/0011041635
-<img width="760" height="400" alt="5" src="https://github.com/user-attachments/assets/b33c854e-2b13-43b7-afea-d60d21cfa462" />
-
-
 <a href="https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A" target="_blank"><img width="650px" src="https://i.imgur.com/vmRq6TO.gif" /></a>
 
 👋  I'm a Full Stack Engineer and Research Scientist from Taiwan. Currently working as AI Engineer. My research interests are in artificial intelligence、intelligent agent、fuzzy inference system、brain-computer interface、computer vision and deep learning.
@@ -43,9 +34,11 @@ To know more about me. Read [CV](https://andy6804tw.github.io/personal)、[blog]
 </a>
 <br><br>
 
-📢 **[新影片](https://youtu.be/9nbd4tsF1Hc?si=1kVuarOGWXBlDAVu) 機器學習教學 2026｜3 小時零基礎 AI 入門｜Python 應用｜新手友善**
-[![機器學習3 小時零基礎 AI 入門](https://github.com/user-attachments/assets/fba1972a-dd7d-4fc1-af17-2158fd51dfc1)](https://youtu.be/9nbd4tsF1Hc?si=1kVuarOGWXBlDAVu)
+📢 **YouTube [新影片](https://www.youtube.com/watch?v=9nbd4tsF1Hc) 機器學習教學 2026｜3 小時零基礎 AI 入門｜Python 應用｜新手友善**
 
+📢 **AI World 2025 年度大事回顧** [https://medium.com/@andy6804tw/f4c539177995](https://medium.com/@andy6804tw/f4c539177995)
+
+<img width="800" height="446" alt="image" src="https://github.com/user-attachments/assets/16a018f2-e9c0-4f3f-b2c0-cb3077ffce00" />
 
 
 <table>
