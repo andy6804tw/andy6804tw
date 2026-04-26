@@ -1,3 +1,15 @@
+🎉 本週日(4/26)博客來有一日限定 66 折活動！📚<br>
+這次活動的主題書是《機器學習：最強入門邁向AI高手 王者歸來》，限時 66 折！<br>
+而我的書《全民瘋 AI 系列 - 經典機器學習》也在這次搭售優惠書單中，只要與主題書一起購買，就可以同享 66 折優惠！<br>
+
+如果你正想入門機器學習，或想系統化補強 AI 與機器學習基礎，這次是很適合入手的機會。<br>
+歡迎到博客來逛逛活動頁面，把握這波一日限定優惠！<br>
+
+主題書連結：https://www.books.com.tw/products/0011007836
+
+<img width="760" height="400" alt="image" src="https://github.com/user-attachments/assets/1d669a60-b9e9-4216-b4dd-be853ca716e7" />
+
+
 <a href="https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A" target="_blank"><img width="650px" src="https://i.imgur.com/vmRq6TO.gif" /></a>
 
 👋  I'm a Full Stack Engineer and Research Scientist from Taiwan. Currently working as AI Engineer. My research interests are in artificial intelligence、intelligent agent、fuzzy inference system、brain-computer interface、computer vision and deep learning.
